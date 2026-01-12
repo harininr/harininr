@@ -3,7 +3,7 @@
 <div align="center">
   
   ### 3rd Year Computer Science Engineering Student  
-  **Full-Stack Developer | Machine Learning | Embedded Systems**  
+  **Full-Stack | Cloud Computing | AI-ML**  
   *AWS Certified Cloud Practitioner | Open-Source Contributor*
 
   ---
