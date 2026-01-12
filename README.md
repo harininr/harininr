@@ -1,76 +1,52 @@
-# Harini Nagarajan
-
-3rd Year Computer Science Engineering Student  
-Full-Stack Developer | Machine Learning | Embedded Systems  
+Harini Nagarajan
+<div align="center">
+3rd Year Computer Science Engineering Student
+Full-Stack Developer | Machine Learning | Embedded Systems
 AWS Certified Cloud Practitioner | Open-Source Contributor
 
----
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;"> <a href="mailto:harinin006@gmail.com"> <img src="https://img.shields.io/badge/Email-harinin006%40gmail.com-7282ce?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://github.com/harininr"> <img src="https://img.shields.io/badge/GitHub-harininr-2c3a58?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://linkedin.com/in/harininr"> <img src="https://img.shields.io/badge/LinkedIn-Harini%20Nagarajan-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </div></div>
+<div align="center">
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7282CE&center=true&vCenter=true&width=800&lines=Building+well-engineered%252C+real-world+systems;Passionate+about+full-stack+development;Machine+Learning+enthusiast;Cloud+computing+specialist;Open-source+contributor
 
-## About Me
-I am a Computer Science Engineering student with a strong focus on full-stack development, machine learning, embedded systems, and cloud computing. I enjoy building well-engineered, real-world systems and contributing to open-source projects with meaningful impact.
+</div>
+<div align="center" style="margin: 40px 0;"> <img src="https://github-readme-stats.vercel.app/api?username=harininr&show_icons=true&theme=default&hide_border=true&bg_color=f8f9ff&title_color=2c3a58&text_color=6b7a9d&icon_color=7282ce" alt="GitHub Stats" style="margin: 10px;" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=harininr&theme=default&hide_border=true&background=f8f9ff&stroke=7282ce&ring=8d9ddb&fire=a8b4e8&currStreakNum=2c3a58&sideNums=6b7a9d&currStreakLabel=7282ce&sideLabels=8d9ddb&dates=c3cff4" alt="GitHub Streak" style="margin: 10px;" /></div>
+Technical Skills
+<div align="center">
+Programming Languages	Web Development	Machine Learning & DIP	Cloud & DevOps	Developer Tools
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white	https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white	https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white	https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white	https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+https://img.shields.io/badge/C%252B%252B-00599C?style=flat-square&logo=c%252B%252B&logoColor=white	https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white	https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white	https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white	https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
+https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black	https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white		https://img.shields.io/badge/VS%2520Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white	https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black	https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white		https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white
+https://img.shields.io/badge/Embedded%2520C-A8B9CC?style=flat-square&logo=c&logoColor=white	https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white	https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white		https://img.shields.io/badge/Keil%2520uVision-31A8FF?style=flat-square&logo=arm&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white		https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white		https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
+</div>
+Featured Projects
+<div align="center">
+Project	Technologies	Description
+AuraGlow	https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black https://img.shields.io/badge/-Electron.js-47848F?style=flat-square&logo=electron&logoColor=white	Interactive skincare website with dark/light mode, packaged as cross-platform desktop app
+TNPSC Study Hub	https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white	Full-stack educational platform for competitive exam preparation
+ASL Gesture Recognition	https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white https://img.shields.io/badge/-Machine%2520Learning-FF6F61?style=flat-square&logo=tensorflow&logoColor=white	Real-time sign language recognition using classical image processing and machine learning
+Mathematical Symbol Identifier	https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white	ML-based classifier for 369 mathematical symbols with 90%+ validation accuracy
+Digital Lock with Bluetooth	https://img.shields.io/badge/-Embedded%2520C-A8B9CC?style=flat-square&logo=c&logoColor=white https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white https://img.shields.io/badge/-Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white	Embedded system using STM32 Blue Pill for secure access control
+Morse Code Encoder/Decoder	https://img.shields.io/badge/-Embedded%2520Systems-4A4A55?style=flat-square&logo=raspberrypi&logoColor=white https://img.shields.io/badge/-Tinkercad-FF6F61?style=flat-square&logo=autodesk&logoColor=white	Complete encoder-decoder system simulated using Tinkercad
+</div>
+<div align="center" style="margin: 30px 0;">
+Core Concepts & Expertise
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;"> <span style="background: linear-gradient(135deg, #e6e9ff, #f0f2ff); padding: 8px 16px; border-radius: 20px; color: #2c3a58; font-weight: 500;">Design Patterns</span> <span style="background: linear-gradient(135deg, #e6e9ff, #f0f2ff); padding: 8px 16px; border-radius: 20px; color: #2c3a58; font-weight: 500;">Digital Image Processing</span> <span style="background: linear-gradient(135deg, #e6e9ff, #f0f2ff); padding: 8px 16px; border-radius: 20px; color: #2c3a58; font-weight: 500;">Machine Learning</span> <span style="background: linear-gradient(135deg, #e6e9ff, #f0f2ff); padding: 8px 16px; border-radius: 20px; color: #2c3a58; font-weight: 500;">Computer Networks</span> <span style="background: linear-gradient(135deg, #e6e9ff, #f0f2ff); padding: 8px 16px; border-radius: 20px; color: #2c3a58; font-weight: 500;">Theory of Computation</span> <span style="background: linear-gradient(135deg, #e6e9ff, #f0f2ff); padding: 8px 16px; border-radius: 20px; color: #2c3a58; font-weight: 500;">Embedded Systems</span> <span style="background: linear-gradient(135deg, #e6e9ff, #f0f2ff); padding: 8px 16px; border-radius: 20px; color: #2c3a58; font-weight: 500;">Computer Organization</span> <span style="background: linear-gradient(135deg, #e6e9ff, #f0f2ff); padding: 8px 16px; border-radius: 20px; color: #2c3a58; font-weight: 500;">Data Structures & Algorithms</span> <span style="background: linear-gradient(135deg, #e6e9ff, #f0f2ff); padding: 8px 16px; border-radius: 20px; color: #2c3a58; font-weight: 500;">Operating Systems</span> <span style="background: linear-gradient(135deg, #e6e9ff, #f0f2ff); padding: 8px 16px; border-radius: 20px; color: #2c3a58; font-weight: 500;">Database Management Systems</span> </div></div>
+Certifications
+<div align="center">
+Certification	Issuer	Date
+AWS Certified Cloud Practitioner	Amazon Web Services	July 2025
+AWS Academy Cloud Foundations	AWS Academy – Amrita Vishwa Vidyapeetham	March 2025
+</div>
+<div align="center" style="margin: 40px 0;">
+GitHub Activity
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+https://github-readme-stats.vercel.app/api/top-langs/?username=harininr&layout=compact&theme=default&hide_border=true&bg_color=f8f9ff&title_color=2c3a58&text_color=6b7a9d&langs_count=8
 
----
-
-## Technical Skills
-
-### Programming Languages
-- Python, C++, Java, JavaScript, SQL
-- Haskell (functional programming)
-- Embedded C
-
-### Web Development
-- HTML, CSS, JavaScript
-- React, Node.js
-
-### Machine Learning & Digital Image Processing
-- Scikit-learn, PyTorch
-- NumPy, Pandas, Matplotlib
-- OpenCV
-
-### Cloud & DevOps
-- AWS (EC2, S3, Lambda, IAM, SageMaker)
-- Vercel
-
-### Developer Tools
-- Git, GitHub, Linux, VS Code
-- MATLAB, Keil uVision
-
----
-
-## Projects
-
-### AuraGlow – Interactive Skincare Website
-- Developed a responsive, multi-page web application
-- Implemented dark/light mode and reusable UI components
-- Built using HTML, CSS, JavaScript, and Electron.js
-
-### TNPSC Study Hub
-- Designed a full-stack educational platform for competitive exam preparation
-- Focused on usability, structured content delivery, and scalability
-
-### ASL Gesture Recognition
-- Built a real-time sign language recognition system using classical image processing and machine learning
-- Implemented skin segmentation, contour detection, and adaptive thresholding techniques
-
-### Handwritten Mathematical Symbol Identifier
-- Developed a machine learning-based classifier for 369 mathematical symbols
-- Achieved over 90% validation accuracy using Scikit-learn with optimized preprocessing
-
-### Digital Lock with Bluetooth (STM32 Blue Pill)
-- Designed and implemented an embedded system using the STM32 microcontroller
-- Enabled secure access control via Bluetooth communication
-
-### Morse Code Encoder and Decoder
-- Designed and simulated a complete encoder-decoder system using Tinkercad
-
----
-
-## Certifications
-- AWS Certified Cloud Practitioner (CLF-C02)
-- AWS Academy Cloud Foundations
-
----
-
-## Contact
-Email: harinin006@gmail.com  
-GitHub: https://github.com/harininr
+</div></div>
+<div align="center">
+Let's Connect
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;"> <a href="mailto:harinin006@gmail.com"> <img src="https://img.shields.io/badge/Email-harinin006%40gmail.com-7282ce?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://github.com/harininr"> <img src="https://img.shields.io/badge/GitHub-harininr-2c3a58?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://linkedin.com/in/harininr"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </div>
+<div style="color: #6b7a9d; font-size: 14px; margin-top: 20px;"> Building well-engineered, real-world systems with meaningful impact </div></div>
+<div align="center" style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, #f0f2ff, #e6e9ff); border-radius: 15px;"> <div style="display: flex; justify-content: center; align-items: center; gap: 15px; color: #2c3a58;"> <div style="font-size: 14px; font-weight: 500;">Currently Learning</div> <div style="display: flex; gap: 10px;"> <span style="background: white; padding: 5px 12px; border-radius: 15px; font-size: 13px;">Cloud Architecture</span> <span style="background: white; padding: 5px 12px; border-radius: 15px; font-size: 13px;">Deep Learning</span> <span style="background: white; padding: 5px 12px; border-radius: 15px; font-size: 13px;">System Design</span> </div> </div></div><style> @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } } * { animation: fadeIn 0.5s ease-out; } table { width: 100%; border-collapse: separate; border-spacing: 0; margin: 20px 0; } th { background: linear-gradient(135deg, #a8b4e8, #7282ce); color: white; padding: 12px; text-align: left; border-radius: 8px 8px 0 0; } td { padding: 12px; border-bottom: 1px solid #f0f2ff; } tr:hover { background: rgba(168, 180, 232, 0.1); transition: background 0.3s ease; } .project-table td:first-child { font-weight: 600; color: #2c3a58; } .badge-container { display: flex; flex-wrap: wrap; gap: 5px; } </style><!-- Animation for typing effect --><script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script><script> document.addEventListener('DOMContentLoaded', function() { const elements = document.querySelectorAll('.typing-animation'); elements.forEach(el => { const typewriter = new Typewriter(el, { loop: true, delay: 75, }); const lines = el.textContent.split('\n').filter(line => line.trim()); lines.forEach(line => { typewriter.typeString(line).pauseFor(2500).deleteAll().start(); }); }); }); </script>
