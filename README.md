@@ -5,13 +5,7 @@
 
 </div>
 
-<div align="center">
-  
-<!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&width=900&lines=3rd+Year+Computer+Science+Engineering+Student;Building+Production-Ready+Real-World+Systems;AWS+Certified+Cloud+Practitioner+%2B+AI+Practitioner;Full-Stack+Developer+%7C+ML+Engineer+%7C+Cloud+Architect" alt="Typing SVG" />
-</a>
-
+<div align="center"><!-- Enhanced Typing Effect - Clean Professional Version --><a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=980&lines=Third+Year+Computer+Science+Engineering+Student;AWS+Certified+Cloud+and+AI+Practitioner;Full+Stack+Developer+%7C+Machine+Learning+Engineer;Building+Production+Ready+Real+World+Systems&height=45&repeat=true" alt="Typing Animation" /> </a>
 <br/>
 <br/>
 
