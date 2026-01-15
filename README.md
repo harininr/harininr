@@ -8,7 +8,7 @@
 <div align="center">
   
 <!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=3rd+Year+Computer+Science+Engineering;Building+Well-Engineered+Real-World+Systems;AWS+Certified+%7C+Open-Source+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=3rd+Year+Computer+Science+Engineering Student" alt="Typing SVG" /></a>
 
 <!-- Dynamic Badges with Glow Effect -->
 <p align="center">
