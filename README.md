@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Animated Header with Purple Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Harini%20Nagarajan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20%7C%20Year%203&descSize=20&descAlignY=53" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Harini%20Nagarajan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20%7C%20Year%203&descSize=24&descAlignY=53" />
 
 </div>
+
 
 <div align="center"><!-- Enhanced Typing Effect - Clean Professional Version --><a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=980&lines=Third+Year+Computer+Science+Engineering+Student;AWS+Certified+Cloud+and+AI+Practitioner;Full+Stack+Developer+%7C+Machine+Learning+Engineer;Building+Production+Ready+Real+World+Systems&height=45&repeat=true" alt="Typing Animation" /> </a>
 <br/>
