@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=200&section=header&text=Harini%20Nagarajan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20%7C%20Year%203&descSize=24&descAlignY=53" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=header&text=Harini%20Nagarajan&fontSize=55&fontColor=000&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20%7C%20Year%203&descSize=24&descAlignY=53" />
 
 </div>
 
