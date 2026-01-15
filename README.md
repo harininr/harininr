@@ -1,7 +1,5 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=header&text=Harini%20Nagarajan&fontSize=55&fontColor=000&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20%7C%20Year%203&descSize=24&descAlignY=53" />
-
 </div>
 
 
@@ -12,96 +10,87 @@
 <!-- Dynamic Status Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-9D4EDD?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=240046" alt="AWS Cloud"/>
-  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-7B2CBF?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=240046" alt="AWS AI"/>
-  <img src="https://img.shields.io/badge/CGPA-8.59%2F10-C77DFF?style=for-the-badge&logoColor=white&labelColor=240046" alt="CGPA"/>
-  <img src="https://komarev.com/ghpvc/?username=harininr&label=Profile%20Views&color=9D4EDD&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-7B2CBF?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=240046" alt="AWS AI"/> <br><br>
 </p>
 
 </div>
 
 ---
-
 <div align="center">
-
-## About Me
-
 <table>
 <tr>
 <td width="55%" valign="top">
 
-```javascript
-const harini = {
-    university: "Amrita Vishwa Vidyapeetham",
-    degree: "B.Tech Computer Science",
-    year: 3,
-    cgpa: 8.59,
-    location: "Coimbatore, India",
-    
-    expertise: [
-        "Full-Stack Development",
-        "Cloud Architecture (AWS)",
-        "Machine Learning & AI",
-        "Embedded Systems",
-        "Computer Vision"
-    ],
-    
-    certifications: [
-        "AWS Certified Cloud Practitioner",
-        "AWS Certified AI Practitioner",
-        "AWS Academy Cloud Foundations"
-    ],
-    
-    currentFocus: [
-        "System Design",
-        "Deep Learning",
-        "Scalable Architectures",
-        "Production ML Systems"
-    ],
-    
-    philosophy: "Build with precision, deploy with confidence"
-};
-```
+## About Me
+
+🎓 **B.Tech Computer Science & Engineering (Year 3)**  
+📍 *Amrita Vishwa Vidyapeetham, Coimbatore, India*  
+📊 **CGPA:** 8.59 / 10  
+
+I am a Computer Science engineering student with a strong interest in **building reliable, production-ready systems** across software, cloud, machine learning, and embedded domains.
+
+I enjoy working close to both **system design and implementation**, focusing on clarity, scalability, and real-world usability rather than purely academic solutions.
+
+---
+
+### Areas of Expertise
+- Full-Stack Web Development  
+- Cloud Architecture (AWS)  
+- Machine Learning & Artificial Intelligence  
+- Embedded Systems  
+- Computer Vision  
+
+---
+
+### Certifications
+- AWS Certified Cloud Practitioner  
+- AWS Certified AI Practitioner  
+- AWS Academy Cloud Foundations  
+
+---
+
+> *Build with precision. Deploy with confidence.*
 
 </td>
+
 <td width="45%" valign="top">
 
 <br/>
 
-### Technical Foundation
+## Technical Foundation
 
-**Cloud Computing**: AWS EC2, S3, Lambda, IAM, SageMaker, VPC  
-**Full-Stack**: React.js, Node.js, Express, MongoDB, MySQL  
-**AI/ML**: Scikit-learn, PyTorch, OpenCV, NumPy, Pandas  
-**Systems**: Embedded C, STM32, Real-time OS concepts  
-**Core CS**: DSA, Design Patterns, OOP, Computer Networks
+**Cloud Computing**  
+AWS EC2, S3, Lambda, IAM, VPC, SageMaker  
+
+**Full-Stack Development**  
+React.js, Node.js, Express, MongoDB, MySQL  
+
+**AI / Machine Learning**  
+Scikit-learn, PyTorch, OpenCV, NumPy, Pandas  
+
+**Systems & Embedded**  
+Embedded C, STM32, Real-Time OS concepts  
+
+**Core Computer Science**  
+Data Structures & Algorithms, OOP, Design Patterns, Computer Networks  
 
 <br/>
 
-### Academic Excellence
+## Academic Excellence
 
-**Amrita Vishwa Vidyapeetham** (2023 - Present)  
+**Amrita Vishwa Vidyapeetham** *(2023 – Present)*  
 B.Tech Computer Science & Engineering  
-CGPA: 8.59/10
+**CGPA:** 8.59 / 10  
 
-**AISSCE 2023**  
+**AISSCE – 2023**  
 All India Senior School Certificate  
-Percentage: 90.4%
+**Score:** 90.4%
 
 </td>
 </tr>
 </table>
-
 </div>
 
----
-
-<div align="center">
-
-## GitHub Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harininr&custom_title=Contribution%20Graph&bg_color=0d1117&color=9d4edd&line=c77dff&point=ffffff&area=true&area_color=7b2cbf&hide_border=true" alt="Contribution Graph" width="98%"/>
-
-</div>
 
 ---
 
