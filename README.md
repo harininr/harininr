@@ -531,7 +531,7 @@ Check out my repositories
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-**Built with precision. Deployed with confidence.**
+**Building with precision. Deploying with confidence.**
 
 <sub>From Harini Nagarajan with determination and passion</sub>
 
