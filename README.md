@@ -523,8 +523,6 @@ Check out my repositories
 <br/>
 
 <img src="https://img.shields.io/github/followers/harininr?label=Followers&style=for-the-badge&color=9D4EDD&logo=github&logoColor=white" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/harininr?label=Total%20Stars&style=for-the-badge&color=C77DFF&logo=github&logoColor=white" alt="Total Stars"/>
-
 </div>
 
 ---
