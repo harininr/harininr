@@ -483,9 +483,6 @@ Completed hands-on labs covering EC2, VPC, S3, IAM, and load balancing. Gained f
 <a href="mailto:harinin006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-**harinin006@gmail.com**
-
 Available for collaboration and opportunities
 
 </td>
