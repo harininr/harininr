@@ -534,5 +534,6 @@ Check out my repositories
 **Building with precision. Deploying with confidence.**
 
 <sub>From Harini Nagarajan with determination and passion</sub>
+<br>
 <sub> Updates incoming !!!</sub>
 </div>
