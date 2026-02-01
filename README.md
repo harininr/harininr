@@ -520,9 +520,6 @@ Check out my repositories
 
 ### Open to collaborations, internships, and project opportunities
 
-<br/>
-
-<img src="https://img.shields.io/github/followers/harininr?label=Followers&style=for-the-badge&color=9D4EDD&logo=github&logoColor=white" alt="Followers"/>
 </div>
 
 ---
