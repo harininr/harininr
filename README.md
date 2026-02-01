@@ -518,7 +518,7 @@ Check out my repositories
 
 <br/>
 
-### Open to collaborations, internships, and exciting project opportunities
+### Open to collaborations, internships, and project opportunities
 
 <br/>
 
@@ -535,5 +535,5 @@ Check out my repositories
 
 <sub>From Harini Nagarajan with determination and passion</sub>
 <br>
-<sub> Updates incoming !!!</sub>
+<sub> Updates incoming !!!!!</sub>
 </div>
