@@ -23,9 +23,9 @@
 
 ## About Me
 
-🎓 **B.Tech Computer Science & Engineering (Year 4)**  
-📍 *Amrita Vishwa Vidyapeetham, Coimbatore, India*  
-📊 **CGPA:** 8.54 / 10  
+ **B.Tech Computer Science & Engineering (Year 4)**  
+ *Amrita Vishwa Vidyapeetham, Coimbatore, India*  
+ **CGPA:** 8.54 / 10  
 
 I am a Computer Science engineering student with a strong interest in **building reliable, production-ready systems** across software, cloud, machine learning, and embedded domains.
 
