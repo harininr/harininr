@@ -23,7 +23,7 @@
 
 ## About Me
 
-🎓 **B.Tech Computer Science & Engineering (Year 3)**  
+🎓 **B.Tech Computer Science & Engineering (Year 4)**  
 📍 *Amrita Vishwa Vidyapeetham, Coimbatore, India*  
 📊 **CGPA:** 8.54 / 10  
 
