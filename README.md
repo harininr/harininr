@@ -80,7 +80,7 @@ Data Structures & Algorithms, OOP, Design Patterns, Computer Networks
 
 **Amrita Vishwa Vidyapeetham** *(2023 – Present)*  
 B.Tech Computer Science & Engineering  
-**CGPA:** 8.59 / 10  
+**CGPA:** 8.54 / 10  
 
 **AISSCE – 2023**  
 All India Senior School Certificate  
