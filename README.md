@@ -83,9 +83,12 @@ B.Tech Computer Science & Engineering
 **CGPA:** 8.54 / 10  
 
 **AISSCE – 2023**  
-All India Senior School Certificate  
+All India Senior School Certificate Examination
 **Score:** 90.4%
 
+**AISSE – 2021**  
+All India Secondary School Examination
+**Score:** 90%
 </td>
 </tr>
 </table>
