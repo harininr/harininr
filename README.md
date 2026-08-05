@@ -46,7 +46,7 @@ I enjoy working close to both **system design and implementation**, focusing on 
 - AWS Certified Cloud Practitioner  
 - AWS Certified AI Practitioner  
 - AWS Academy Cloud Foundations
-- Applied AI/ML Foundations - IITP x Masai
+- Applied AI/ML Essentials - IITP x Masai
 
 ---
 
