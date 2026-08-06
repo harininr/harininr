@@ -50,8 +50,6 @@ I enjoy working close to both **system design and implementation**, focusing on 
 
 ---
 
-> *Build with precision. Deploy with confidence.*
-
 </td>
 
 <td width="45%" valign="top">
