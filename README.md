@@ -475,7 +475,7 @@ Completed hands-on labs covering EC2, VPC, S3, IAM, and load balancing. Gained f
 
 <div align="center">
 
-## Let's Connect
+## Let's Connect!
 
 <br/>
 
@@ -490,7 +490,7 @@ Completed hands-on labs covering EC2, VPC, S3, IAM, and load balancing. Gained f
 
 **harinin006@gmail.com** 
 
-Available for collaboration and opportunities
+Available for collaboration and opportunities!
 
 </td>
 <td align="center" width="33%">
@@ -536,5 +536,4 @@ Check out my repositories
 
 <sub>From Harini Nagarajan with determination and passion</sub>
 <br>
-<sub> Updates incoming !!!!!</sub>
 </div>
